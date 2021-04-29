@@ -22,7 +22,7 @@ const AppContainer = createAppContainer(TabNavigator);
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "red",
+    backgroundColor: "yellow",
     alignItems: "center",
     justifyContent: "center"
   }
